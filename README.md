@@ -1,10 +1,10 @@
-- 👋 Sup, I’m tom
+- 👋 Sup, I’m Abolfazl  a.k.a tom
 - 🌱 I’m currently coding in python
-- developing discord bot
+   ... and little bit of low level
+  
 - A lazy guy trying to learn programming
-- 📫 How to reach me : discord = tom5596
+- 📫 How to reach me : discord = tom5596 | telegram: @JwyzeK
 -  Pronouns: he/him
-- 🐛 Cool bug Fun fact: emo ppl have mental ill
 
 <!---
 T0mEE5596/T0mEE5596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
